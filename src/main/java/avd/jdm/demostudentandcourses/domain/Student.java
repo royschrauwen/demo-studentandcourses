@@ -14,11 +14,6 @@ public class Student {
     private String name;
     private LocalDate dateOfBirth;
 
-//    public Student(String name, LocalDate dateOfBirth) {
-//        this.name = name;
-//        this.dateOfBirth = dateOfBirth;
-//    }
-
     public Student() {}
 
     public Long getId() {
